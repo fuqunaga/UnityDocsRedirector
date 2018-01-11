@@ -1,4 +1,4 @@
-url = location.href.replace(/\/[\d\.]+\//, "/current/");
+url = location.href.replace(/\/[\d\.]+\//, "/");
 if ( url != location.href)
 {
 	location.href = url;
