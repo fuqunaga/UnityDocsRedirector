@@ -1,10 +1,8 @@
 # Unity Docs Redirector
 
-Redirect old Unity document to current Chrome Extension
+Chrome Extension: Redirect old Unity document to current 
 
 ## Install
 
 Chrome Web Store
- 
-
-## Usage
+https://chrome.google.com/webstore/detail/hadicpmehcebaekgnbccamdkijppihkl
